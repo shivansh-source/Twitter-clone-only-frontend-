@@ -11,11 +11,6 @@ HTML: To structure the web pages.
 CSS: To style the app.
 JavaScript: To make the app interactive.
 How to Use
-Download or Clone the project:
-bash
-Copy code
-git clone https://github.com/your-repo/twitter-clone-frontend.git
-Open the folder and double-click on the index.html file to open it in a browser.
 Log In using the credentials:
 Username: user123
 Password: password123
