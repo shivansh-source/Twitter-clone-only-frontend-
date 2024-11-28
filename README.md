@@ -12,7 +12,7 @@ CSS: To style the app.
 JavaScript: To make the app interactive.
 How to Use
 Log In using the credentials:
-Username: user123
+Username: shivansh
 Password: password123
 After logging in, you can:
 View tweets on the home page.
