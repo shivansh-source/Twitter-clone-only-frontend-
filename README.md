@@ -13,7 +13,7 @@ JavaScript: To make the app interactive.
 How to Use
 Log In using the credentials:
 Username: shivansh
-Password: password123
+Password: 123
 After logging in, you can:
 View tweets on the home page.
 Write and post new tweets.
